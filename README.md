@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamonaRamone16
 - 👀 I’m interested in software engineering, networks, cyber security
-- 🌱 I’m currently learning JavaScript, React, TypeScript, .NET Core, C# 9
+- 🌱 I’m currently learning JavaScript, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ramonaramonr@gmail.com
 
